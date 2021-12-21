@@ -43,6 +43,6 @@ Entry Level Data Analyst Projects
 
 ## Project #1: [Dashboard - Covid](https://github.com/aldanajd/Entry_level_Projects/tree/main/Tableau%20Projects/Dashboard%20-%20COVID)
 
-* Overview: This [dashboard](https://public.tableau.com/app/profile/jorge1136/viz/CovidDashboard_16399924814070/Dashboard1?publish=yes%5D) is a representation of the SQL Project #1: Data Exploration - Covid , provides a clear way of seeing how the covid has evolved globally throught the months
+* Overview: This [dashboard](https://public.tableau.com/app/profile/jorge1136/viz/CovidDashboard_16399924814070/Dashboard1?publish=yes%5D) is a representation of the [SQL Project #1: Data Exploration - Covid](https://github.com/aldanajd/Entry_level_Projects/tree/main/SQL%20Projects/1%20-%20Exploration%20with%20SQL%20-%20COVID), provides a clear way of seeing how the covid has evolved globally throught the months
 
 * Background: It's easier to extract insights and explain the data with a clear visualization of it, Tableau's Dashboards are excellent to do so.
