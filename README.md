@@ -1,3 +1,4 @@
+Entry Level Data Analyst Projects
 
 # Excel Projects:
 
