@@ -10,6 +10,10 @@ Entry Level Data Analyst Projects
 
 * IF, Counts, Macros, Lists, Tables, Sheet-to-sheet, Converter, etc.
 
+![](https://github.com/aldanajd/Data_Analyst_I/blob/main/Images/Trading_log_1.png)
+
+![](https://github.com/aldanajd/Data_Analyst_I/blob/main/Images/Trading_log_2.png)
+
 ## Project #2: [Selling Records](https://github.com/aldanajd/Entry_level_Projects/tree/main/Excel%20Projects/Selling%20Records) 
 
 * Overview: A project to practice tables and VLOOKUP 
@@ -44,6 +48,8 @@ Entry Level Data Analyst Projects
 
 * Pandas, calculations, lists, graphs
 
+![](https://github.com/aldanajd/Data_Analyst_I/blob/main/Images/ROI_comparison.png)
+
 ## Project #4: [Trades Per Second - Bybit](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Trades%20Per%20Second%20-%20Bybit)
 
 * Overview: Using the API of the exchange called 'Bybit' to extract the trades made per second
@@ -52,6 +58,8 @@ Entry Level Data Analyst Projects
 
 * Pandas, API
 
+![](https://github.com/aldanajd/Data_Analyst_I/blob/main/Images/Trades_per_second.png)
+
 ## Project #5: [Correlation - Finding Insights](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Correlation%20-%20Finding%20Insights)
 
 * Overview: Cleaning, exploring and then creating visualizations to find insights from a movie dataset
@@ -59,6 +67,8 @@ Entry Level Data Analyst Projects
 * Background: The need of improving my knowledge with graphs, correlations and data cleaning in python
 
 * Pandas, Matplotlib, Seaborn, NumPy, Data cleaning, Data exploration, hypothesis testing
+
+![](https://github.com/aldanajd/Data_Analyst_I/blob/main/Images/Correlation_heatmap.png)
 
 # SQL Projects:
 
@@ -86,3 +96,5 @@ Entry Level Data Analyst Projects
 * Overview: This [dashboard](https://public.tableau.com/app/profile/jorge1136/viz/CovidDashboard_16399924814070/Dashboard1?publish=yes%5D) is a representation of the [SQL Project #1: Data Exploration - Covid](https://github.com/aldanajd/Entry_level_Projects/tree/main/SQL%20Projects/1%20-%20Exploration%20with%20SQL%20-%20COVID), provides a clear way of seeing how the covid has evolved globally throught the months
 
 * Background: It's easier to extract insights and explain the data with a clear visualization of it, Tableau's Dashboards are excellent to do so.
+
+![](https://github.com/aldanajd/Data_Analyst_I/blob/main/Images/Tableau_dashboard%20-%20covid.png)
