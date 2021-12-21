@@ -26,9 +26,9 @@ Entry Level Data Analyst Projects - Watch in [Github.io](https://aldanajd.github
 
 ## Project #1: [Intro to Python for Beginners](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Intro%20to%20Python%20for%20Beginners)
 
-* Overview: A guide that contains the most used packages: pandas, numpy, matplotlib, seaborn, example of a class, keywords and functions and datasets to practice
+* Overview: A guide that contains the most used packages: pandas, numpy, matplotlib, seaborn, example of a class, keywords, functions and datasets to practice
 
-* Background: My best and favorite project so far, not because of it's complexity but because how useful it has been for me and how it represents me. It's organized, it's helpful, It was made as a plan for the future, it's always there for when you need to check into a syntax that you might have forgotten (quicker than using stackoverflow), always updating it with new important functions to know
+* Background: My best and favorite project so far, not because of it's complexity but because how useful it has been for me and how it represents me. It's organized, it's helpful, It was made as a plan for the future, it's always there for when you need to check into a syntax that you might have forgotten (quicker than using stackoverflow), always updating it with new important functions
 
 * Pandas, NumPy, Matplotlib, Seaborn, Datasets, Keywords, Functions, Classes
 
@@ -44,7 +44,7 @@ Entry Level Data Analyst Projects - Watch in [Github.io](https://aldanajd.github
 
 * Overview: A simple return-of-investment calculator 
 
-* Background: I was once in the need to know the ROI of a trading algorithm
+* Background: I was once in the need to know the ROI of two trading algorithms 
 
 * Pandas, calculations, lists, graphs
 
@@ -54,7 +54,7 @@ Entry Level Data Analyst Projects - Watch in [Github.io](https://aldanajd.github
 
 * Overview: Using the API of the exchange called 'Bybit' to extract the trades made per second
 
-* Background: Exploring the API's found ways to POST, REQUEST and DELETE everything about trading, this is one of the useful functions that I used to elaborate my own trading algorithms
+* Background: Exploring the API I found ways to POST, REQUEST and DELETE everything about trading, this is one of the useful functions that I used to elaborate my own trading algorithms
 
 * Pandas, API
 
@@ -74,7 +74,7 @@ Entry Level Data Analyst Projects - Watch in [Github.io](https://aldanajd.github
 
 ## Project #1: [Data Exploration - Covid](https://github.com/aldanajd/Entry_level_Projects/tree/main/SQL%20Projects/1%20-%20Exploration%20with%20SQL%20-%20COVID)
 
-* Overview: Extracted the data from [Our World in Data](https://ourworldindata.org/) and then proceeded to create tables and calculations to learn more about the covid (total deaths, total cases, total vaccines) throught the countries/continents
+* Overview: Extracted the data from [Our World in Data](https://ourworldindata.org/) and then proceeded to create tables and calculations to learn more about the covid (total deaths, total cases, total vaccines) and it's impact in the countries/continents populations
 
 * Background: One of the most common subject out there but at the same time, one of the most important
 
@@ -85,7 +85,7 @@ Entry Level Data Analyst Projects - Watch in [Github.io](https://aldanajd.github
 
 * Overview: This project really helped to feel like a data analyst, creating a plan to decide how to deal with the data applying own criteria and the most common cleaning methods
 
-* Background: From what I have been told, from what I have read, from what I have seen, data cleaning is the most common step for data analysts
+* Background: From what I have been told, from what I have read, from what I have seen, data cleaning is the most common task for data analysts
 
 * Dealing with blanks, string to date, splitting addresses, removing duplicates, further cleaning of strings, deleting columns, etc.
 
