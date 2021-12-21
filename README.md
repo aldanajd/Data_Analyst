@@ -10,9 +10,9 @@ Entry Level Data Analyst Projects - Watch in [Github.io](https://aldanajd.github
 
 * IF, Counts, Macros, Lists, Tables, Sheet-to-sheet, Converter, etc.
 
-![](https://github.com/aldanajd/Data_Analyst_I/blob/main/Images/Trading_log_1.png)
+![](Images/Trading_log_1.png)
 
-![](https://github.com/aldanajd/Data_Analyst_I/blob/main/Images/Trading_log_2.png)
+![](Images/Trading_log_2.png)
 
 ## Project #2: [Selling Records](https://github.com/aldanajd/Entry_level_Projects/tree/main/Excel%20Projects/Selling%20Records) 
 
@@ -48,7 +48,7 @@ Entry Level Data Analyst Projects - Watch in [Github.io](https://aldanajd.github
 
 * Pandas, calculations, lists, graphs
 
-![](https://github.com/aldanajd/Data_Analyst_I/blob/main/Images/ROI_comparison.png)
+![](Images/ROI_comparison.png)
 
 ## Project #4: [Trades Per Second - Bybit](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Trades%20Per%20Second%20-%20Bybit)
 
@@ -58,7 +58,7 @@ Entry Level Data Analyst Projects - Watch in [Github.io](https://aldanajd.github
 
 * Pandas, API
 
-![](https://github.com/aldanajd/Data_Analyst_I/blob/main/Images/Trades_per_second.png)
+![](Images/Trades_per_second.png)
 
 ## Project #5: [Correlation - Finding Insights](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Correlation%20-%20Finding%20Insights)
 
@@ -68,7 +68,7 @@ Entry Level Data Analyst Projects - Watch in [Github.io](https://aldanajd.github
 
 * Pandas, Matplotlib, Seaborn, NumPy, Data cleaning, Data exploration, hypothesis testing
 
-![](https://github.com/aldanajd/Data_Analyst_I/blob/main/Images/Correlation_heatmap.png)
+![](Images/Correlation_heatmap.png)
 
 # SQL Projects:
 
@@ -97,4 +97,4 @@ Entry Level Data Analyst Projects - Watch in [Github.io](https://aldanajd.github
 
 * Background: It's easier to extract insights and explain the data with a clear visualization of it, Tableau's Dashboards are excellent to do so.
 
-![](https://github.com/aldanajd/Data_Analyst_I/blob/main/Images/Tableau_dashboard%20-%20covid.png)
+![](Images/Tableau_dashboard%20-%20covid.png)
