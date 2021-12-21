@@ -54,6 +54,12 @@ Entry Level Data Analyst Projects
 
 ## Project #5: [Correlation - Finding Insights](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Correlation%20-%20Finding%20Insights)
 
+* Overview: Cleaning, exploring and then creating visualizations to find insights from a movie dataset
+
+* Background: The need of improving my knowledge with graphs, correlations and data cleaning in python
+
+* Pandas, Matplotlib, Seaborn, NumPy, Data cleaning, Data exploration, hypothesis testing
+
 # SQL Projects:
 
 ## Project #1: [Data Exploration - Covid](https://github.com/aldanajd/Entry_level_Projects/tree/main/SQL%20Projects/1%20-%20Exploration%20with%20SQL%20-%20COVID)
