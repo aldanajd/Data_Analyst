@@ -20,11 +20,39 @@ Entry Level Data Analyst Projects
 
 # Python Projects:
 
-Project #1: [Intro to Python for Beginners](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Intro%20to%20Python%20for%20Beginners)
-Project #2: [Martin Gale Strat](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Martin%20Gale%20Strat)
-Project #3: [ROI Calculator](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/ROI%20Calculator)
-Project #4: [Trades Per Second - Bybit](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Trades%20Per%20Second%20-%20Bybit)
-Project #5: [Correlation - Finding Insights](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Correlation%20-%20Finding%20Insights)
+## Project #1: [Intro to Python for Beginners](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Intro%20to%20Python%20for%20Beginners)
+
+* Overview: A guide that contains the most used packages: pandas, numpy, matplotlib, seaborn, example of a class, keywords and functions and datasets to practice
+
+* Background: My best and favorite project so far, not because of it's complexity but because how useful it has been for me and how it represents me. It's organized, it's helpful, It was made as a plan for the future, it's always there for when you need to check into a syntax that you might have forgotten (quicker than using stackoverflow), always updating it with new important functions to know
+
+* Pandas, NumPy, Matplotlib, Seaborn, Datasets, Keywords, Functions, Classes
+
+## Project #2: [Martin Gale Strat](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Martin%20Gale%20Strat)
+
+* Overview: A simple martin gale strategy calculator 
+
+* Background: I was once in the need to implement the 'Marting Gale Stratategy' into a trading algorithm that I also created but not going to upload it  
+
+* Loops, Dictionaries, Calculations
+
+## Project #3: [ROI Calculator](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/ROI%20Calculator)
+
+* Overview: A simple return-of-investment calculator 
+
+* Background: I was once in the need to know the ROI of a trading algorithm
+
+* Pandas, calculations, lists, graphs
+
+## Project #4: [Trades Per Second - Bybit](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Trades%20Per%20Second%20-%20Bybit)
+
+* Overview: Using the API of the exchange called 'Bybit' to extract the trades made per second
+
+* Background: Exploring the API's found ways to POST, REQUEST and DELETE everything about trading, this is one of the useful functions that I used to elaborate my own trading algorithms
+
+* Pandas, API
+
+## Project #5: [Correlation - Finding Insights](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Correlation%20-%20Finding%20Insights)
 
 # SQL Projects:
 
