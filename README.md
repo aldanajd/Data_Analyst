@@ -97,4 +97,4 @@ Entry Level Data Analyst Projects - Watch in [Github.io](https://aldanajd.github
 
 * Background: It's easier to extract insights and explain the data with a clear visualization of it, Tableau's Dashboards are excellent to do so.
 
-![](Images/Tableau_dashboard%20-%20covid.png)
+![](Images/Tableau_dashboard%20-%20covid2.png)
