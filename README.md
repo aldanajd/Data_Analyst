@@ -18,7 +18,13 @@ Entry Level Data Analyst Projects
 
 * Tables, VLOOKUP
 
-# Python Projects
+# Python Projects:
+
+Project #1: [Intro to Python for Beginners](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Intro%20to%20Python%20for%20Beginners)
+Project #2: [Martin Gale Strat](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Martin%20Gale%20Strat)
+Project #3: [ROI Calculator](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/ROI%20Calculator)
+Project #4: [Trades Per Second - Bybit](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Trades%20Per%20Second%20-%20Bybit)
+Project #5: [Correlation - Finding Insights](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Correlation%20-%20Finding%20Insights)
 
 # SQL Projects:
 
