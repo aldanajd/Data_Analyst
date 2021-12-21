@@ -1,4 +1,4 @@
-Entry Level Data Analyst Projects
+Entry Level Data Analyst Projects - [Github.io](https://aldanajd.github.io/Data_Analyst_I/)
 
 # Excel Projects:
 
