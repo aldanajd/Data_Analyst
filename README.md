@@ -1,6 +1,6 @@
 Data Analysis Projects - Watch in [Github.io](https://aldanajd.github.io/Data_Analyst_I/)
 
-# Excel Projects:
+# Excel Projects
 
 ## Project #1: [Trading Log](https://github.com/aldanajd/Entry_level_Projects/tree/main/Excel%20Projects/Trading%20Log)
 
