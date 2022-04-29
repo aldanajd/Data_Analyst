@@ -93,7 +93,7 @@ Data Analysis Projects - Watch in [Github.io](https://aldanajd.github.io/Data_An
 
 ## Project #1: [Sales CLP - EDA](https://github.com/aldanajd/Data_Analyst/tree/main/Tableau%20Projects/Dashboard%20-%20Sales%20CLP)
 
-* Overview: This [dashboard](https://public.tableau.com/views/SalesForecasting_16511965305110/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) is a representation of the [Sales Forecasting](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/Regression/Sales_Forescasting), provides a clear way of seeing the behavior in sales about particular stores throught the years, starting in 2018 to 2022
+* Overview: This [dashboard](https://public.tableau.com/views/SalesForecasting_16511965305110/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) is a representation of the [Sales Forecasting](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/Regression/Sales_Forescasting), provides a clear way of seeing the behavior in sales about particular stores through out the years, starting in 2018 to 2022
 
 * Background: It's easier to extract insights and explain the data with a clear visualization of it, Tableau's Dashboards are excellent to do so.
 
