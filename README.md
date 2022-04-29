@@ -91,10 +91,20 @@ Data Analysis Projects - Watch in [Github.io](https://aldanajd.github.io/Data_An
 
 # Tableau Projects:
 
-## Project #1: [Dashboard - Covid](https://github.com/aldanajd/Entry_level_Projects/tree/main/Tableau%20Projects/Dashboard%20-%20COVID)
+## Project #1: [Sales CLP - EDA](https://github.com/aldanajd/Data_Analyst/tree/main/Tableau%20Projects/Dashboard%20-%20Sales%20CLP)
 
-* Overview: This [dashboard](https://public.tableau.com/app/profile/jorge1136/viz/CovidDashboard_16399924814070/Dashboard1?publish=yes%5D) is a representation of the [SQL Project #1: Data Exploration - Covid](https://github.com/aldanajd/Entry_level_Projects/tree/main/SQL%20Projects/1%20-%20Exploration%20with%20SQL%20-%20COVID), provides a clear way of seeing how the covid has evolved globally throught the months
+* Overview: This [dashboard](https://public.tableau.com/views/SalesForecasting_16511965305110/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) is a representation of the [Sales Forecasting](https://github.com/aldanajd/Data_Scientist/tree/main/Machine%20Learning/Regression/Sales_Forescasting), provides a clear way of seeing the behavior in sales about particular stores throught the years, starting in 2018 to 2022
+
+* Background: It's easier to extract insights and explain the data with a clear visualization of it, Tableau's Dashboards are excellent to do so.
+
+![](https://github.com/aldanajd/Data_Analyst/blob/main/Images/Tableau_dasboard%20-%20sales_clp.png)
+
+## Project #2: [Dashboard - Covid](https://github.com/aldanajd/Entry_level_Projects/tree/main/Tableau%20Projects/Dashboard%20-%20COVID)
+
+* Overview: This [dashboard](https://public.tableau.com/app/profile/jorge1136/viz/CovidDashboard_16399924814070/Dashboard1?publish=yes%5D) is a representation of the [SQL Project #1: Data Exploration - Covid](https://github.com/aldanajd/Entry_level_Projects/tree/main/SQL%20Projects/1%20-%20Exploration%20with%20SQL%20-%20COVID), provides a clear way of seeing how the covid has evolved globally through out the months
 
 * Background: It's easier to extract insights and explain the data with a clear visualization of it, Tableau's Dashboards are excellent to do so.
 
 ![](Images/Tableau_dashboard%20-%20covid2.png)
+
+
