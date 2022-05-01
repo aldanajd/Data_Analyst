@@ -72,7 +72,7 @@ Data Analysis Projects - Watch in [Github.io](https://aldanajd.github.io/Data_An
 
 ## Project #6: [Data Collection: Web Scraping](https://github.com/aldanajd/Data_Analyst/tree/main/Python%20Projects/Web_scraping/Steam_store)
 
-* Overview: Collecting the data, cleaning, exploring y exporting
+* Overview: Collecting the data, cleaning, exploring and exporting
 
 * Background: The need of improving my data gathering skills
 
