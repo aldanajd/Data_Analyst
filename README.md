@@ -1,4 +1,4 @@
-Data Analysis Projects - Watch in [Github.io](https://aldanajd.github.io/Data_Analyst_I/)
+Data Analysis Projects - Watch in [Github.io](https://aldanajd.github.io/Data_Analyst/)
 
 # Excel Projects:
 
