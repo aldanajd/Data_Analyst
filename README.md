@@ -70,6 +70,16 @@ Data Analysis Projects - Watch in [Github.io](https://aldanajd.github.io/Data_An
 
 ![](Images/Correlation_heatmap.png)
 
+## Project #6: [Data Collection: Web Scraping](https://github.com/aldanajd/Data_Analyst/tree/main/Python%20Projects/Web_scraping/Steam_store)
+
+* Overview: Collecting the data, cleaning, exploring y exporting
+
+* Background: The need of improving my data gathering skills
+
+* Pandas, Requests, BeautifulSoup
+
+![](https://github.com/aldanajd/Data_Analyst/blob/main/Images/steam_top_sellers.PNG)
+
 # SQL Projects:
 
 ## Project #1: [Data Exploration - Covid](https://github.com/aldanajd/Entry_level_Projects/tree/main/SQL%20Projects/1%20-%20Exploration%20with%20SQL%20-%20COVID)
