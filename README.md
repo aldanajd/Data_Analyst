@@ -99,6 +99,14 @@ Data Analysis Projects - Watch in [Github.io](https://aldanajd.github.io/Data_An
 
 * Dealing with blanks, string to date, splitting addresses, removing duplicates, further cleaning of strings, deleting columns, etc.
 
+## Project #3: [Python and SQL](https://github.com/aldanajd/Data_Scientist/blob/main/Machine%20Learning/Classification/SQL_Python)
+
+* Overview: Combination of Python and SQL to save time between Queries, visualizations and modelling
+
+* Background: The need of doing everything within one tool or fewer tools to save time
+
+* Dealing with blanks, removing duplicates, deleting columns, managing the database, creating a table, making visualizations and a fitting the cleaned data into a classification model
+
 # Tableau Projects:
 
 ## Project #1: [Sales CLP - EDA](https://github.com/aldanajd/Data_Analyst/tree/main/Tableau%20Projects/Dashboard%20-%20Sales%20CLP)
