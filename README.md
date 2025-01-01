@@ -50,11 +50,11 @@ Data Analysis Projects - Watch in [Github.io](https://aldanajd.github.io/Data_An
 
 ![](Images/ROI_comparison.png)
 
-## Project #4: [Trades Per Second - Bybit](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Trades%20Per%20Second%20-%20Bybit)
+## Project #4: [WebSocket - Current BTC Price](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Trades%20Per%20Second%20-%20Bybit)
 
-* Overview: Using the API of the exchange called 'Bybit' to extract the trades made per second
+* Overview: Using the WebSocket library, created a connection to retrieve BTC price from the exchange Coinbase
 
-* Background: Exploring the API I found ways to POST, REQUEST and DELETE everything about trading, this is one of the useful functions that I used to elaborate my own trading algorithms
+* Background: Exploring the API and WebSocket I found ways to POST, REQUEST and DELETE everything about trading, this is one of the useful functions that I used to elaborate my own trading algorithms, WebSocket is faster than using the API so I chose to use this approach, getting the price is the first step in order to build a trading algorithm.
 
 * Pandas, API
 
