@@ -34,7 +34,7 @@ Data Analysis Projects - Watch in [Github.io](https://aldanajd.github.io/Data_An
 
 ## Project #2: [Martin Gale Strat](https://github.com/aldanajd/Data_Analyst_I/tree/main/Python%20Projects/Martin%20Gale%20Strat)
 
-* Overview: A simple martin gale strategy calculator 
+* Overview: A simple martin gale strategy calculator: The Martingale strategy is a risky investment or betting strategy that involves doubling your bet after each loss
 
 * Background: I was once in the need to implement the 'Marting Gale Stratategy' into a trading algorithm that I also created but not going to upload it  
 

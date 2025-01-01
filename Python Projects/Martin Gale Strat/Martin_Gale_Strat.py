@@ -1,43 +1,52 @@
-from numpy import unique
+import random
 
+def simulate_martingale(initial_bet, target_profit, max_losses=10):
+  """
+  Simulates the Martingale betting system.
 
-profit_list = []
-loss_list = []
-number_list = [10] #Contracts
-multiply_by = 2 #If Loss: Multiply By
-tp_rate = 1 #Take Profit Rate 1 = 100%
-sl_rate = 1 #Stop Loss Rate 1 = 100%
-count = 0
-profit_popped = 0
-loss_popped = 0
+  Args:
+    initial_bet: The initial bet amount.
+    target_profit: The desired profit amount.
+    max_losses: The maximum number of consecutive losses allowed.
 
-for number in number_list:
+  Returns:
+    A tuple containing:
+      - True if the target profit is reached, False otherwise.
+      - The total number of bets placed.
+      - The final bet amount. 
+  """
+  current_bet = initial_bet
+  total_profit = 0
+  consecutive_losses = 0
+  num_bets = 0
 
-    last_number = number_list.pop()
+  while total_profit < target_profit and consecutive_losses < max_losses:
+    # Simulate a coin flip (replace with your own game logic)
+    result = random.choice([True, False])  # True for win, False for loss
 
-    if last_number <= 1000000000:
-        new_last_number = last_number * multiply_by
-        number_list.append(round(last_number))      
-        number_list.append(round(new_last_number))
+    num_bets += 1
 
-for number in number_list:
-    profit = number*tp_rate
-    loss = number*sl_rate
-    count += 1
-    profit_list.append(profit)
-    loss_list.append(loss)    
-    profit_popped = profit_list.pop()+ profit_popped
-    loss_popped = loss_list.pop() + loss_popped
- 
-    if loss_popped > 400: #Maximum Allowed to Lose
-        break      
- 
-    dictionary = {"Trade #":str(count),
-    "Qty":str(number),
-    "Profit":str(round(profit,4)),
-    "Loss":str(round(loss,4)),
-    "Accumulated Loss":str(round(loss_popped,4)),
-    }    
+    if result:
+      total_profit += current_bet
+      current_bet = initial_bet  # Reset bet after a win
+      consecutive_losses = 0 
+    else:
+      total_profit -= current_bet
+      current_bet *= 2
+      consecutive_losses += 1
 
-    print (dictionary)
-    print ("\n")  
+  return total_profit >= target_profit, num_bets, current_bet
+
+# Example usage:
+initial_bet = 1
+target_profit = 10
+max_losses = 5 
+
+success, num_bets, final_bet = simulate_martingale(initial_bet, target_profit, max_losses)
+
+if success:
+  print("Target profit reached!")
+  print(f"Number of bets placed: {num_bets}")
+  print(f"Final bet amount: {final_bet}") 
+else:
+  print("Failed to reach target profit within the loss limit.") 
