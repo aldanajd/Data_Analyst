@@ -56,7 +56,7 @@ Data Analysis Projects - Watch in [Github.io](https://aldanajd.github.io/Data_An
 
 * Background: Exploring the API and WebSocket I found ways to POST, REQUEST and DELETE everything about trading, this is one of the useful functions that I used to elaborate my own trading algorithms, WebSocket is faster than using the API so I chose to use this approach, getting the price is the first step in order to build a trading algorithm.
 
-* Pandas, API
+* API, WebSocket
 
 ![](Images/Trades_per_second.png)
 
